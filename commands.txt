@@ -1,6 +1,11 @@
-touch
-nano
-clear
-ls
+touch suraj.txt
+touch commands.txt
+nano suraj.txt
+nano commands.txt
+git add .
+git commit -m "Initial Change"
+git remote add origin
+git push origin master
+
 
 
